@@ -1,6 +1,8 @@
 age=14
 print(age)
-Weight=38
-print(Weight)
-Height=145
-print(Height)
+
+weight=35
+print(weight)
+
+height=115
+print(height)
